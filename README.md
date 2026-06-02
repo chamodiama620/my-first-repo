@@ -3,10 +3,10 @@
 # My First Repository 
 
 A beginner Github project
-createdduring the workshop.
+create during the workshop.
 
 
 ## About Me
 
-My name3 is **Chamodi**.
+My name is **Chamodi**.
 I am learning GitHub.
